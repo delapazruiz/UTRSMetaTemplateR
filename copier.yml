@@ -17,27 +17,27 @@ _exclude:
 
 ---
 # Common questions about the software project
-!include common/software.yml
+include common/software.yml
 
 ---
 # Common questions about software community
-!include common/community.yml
+include common/community.yml
 
 ---
 # Common questions about licensing
-!include common/licensing.yml
+include common/licensing.yml
 
 ---
 # Common questions about citation
-!include common/citation.yml
+include common/citation.yml
 
 ---
 # Template specific questions 
-!include project/custom.yml
+include project/custom.yml
 
 ---
 # Template User Messages
-!include common/messages.yml
+include common/messages.yml
 
 ---
 # Inlcudes customized # UNCOMMENT TO INCLUDE CUSTOME FEATURES

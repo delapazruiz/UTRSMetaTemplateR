@@ -1,4 +1,5 @@
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
 # My UT Research Software Template
 
 My Template Description
@@ -18,7 +19,7 @@ pipx install copier
 2. Start a new software project using this template:
 
 ```python
-copier copy https://github.com/manuGil/fair-code.git <path/to/project-directory>
+copier copy https://github.com/delapazruiz/UTRSMetaTemplateR.git <path/to/project-directory>
 ```
 
 3. Finally, initize a Git repository in your project directory:
