@@ -20,7 +20,7 @@ This folder contains data that has been cleaned, transformed, or aggregated for 
 
 ## Interoperability Standards
 To maintain **FAIR Interoperability**, data in this folder follows these standards:
-*   **Format:** Preferred open formats (e.g., `.csv`, `.parquet`, or `.rds` for R-specific performance).
+*   **Format:** Preferred open formats (e.g., `.csv`, or `.rds` for R-specific performance).
 *   **Encoding:** UTF-8.
 *   **Naming:** [ISO 8601](https://www.iso.org) for dates (YYYY-MM-DD) and `snake_case` for variables.
 *   **Unit System:** SI Units (e.g., meters, kilograms) unless otherwise specified.

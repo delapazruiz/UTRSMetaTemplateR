@@ -43,7 +43,7 @@ project-root/
 
 
 ## License
-This software is distributed under a [](LICENSE). 
+This software is distributed under a [CC-BY](LICENSE). 
 
 ## Copyright
 
