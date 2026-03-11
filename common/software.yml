@@ -2,9 +2,7 @@
 
 software_name:
     type: str
-    default: "Awsome UT research software"
     help: What's the name of your software?
-    
 
 software_purpose:
     type: str
